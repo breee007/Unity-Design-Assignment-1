@@ -1,8 +1,3 @@
-Got it 👍 You’re building something like a **kids’ bedroom simulation project** that uses physics (maybe a game, interactive app, or demo). I’ll create a polished **GitHub README** that explains it clearly, feels professional, and appeals to contributors and users alike.
-
-Here’s a structured draft you can use and customize:
-
----
 
 # Kids Physics Bedroom 🛏️✨
 
