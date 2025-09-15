@@ -1,8 +1,3 @@
-
-
-https://github.com/user-attachments/assets/4b0efc46-a093-4f08-be88-862650280ce7
-
-
 # Kids Physics Bedroom 🛏️✨
 
 An interactive simulation of a kid’s bedroom powered by real-time physics!
@@ -104,4 +99,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-👉 Would you like me to also **add visuals** (like a preview screenshot mockup of the bedroom scene) to make the README pop?
+https://github.com/user-attachments/assets/4b0efc46-a093-4f08-be88-862650280ce7
